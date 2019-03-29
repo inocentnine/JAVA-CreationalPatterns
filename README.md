@@ -2,15 +2,15 @@
 
 创建型设计模式有： 共6种
 
-	简单工厂模式（Simple Factory）
+  简单工厂模式（Simple Factory）
 
-	工厂方法模式（Factory Method）
+  工厂方法模式（Factory Method）
 
-	抽象工厂模式（Abstract Factory）
+  抽象工厂模式（Abstract Factory）
 
-	建造者模式（Builder）
+  建造者模式（Builder）
 
-	原型模式（Prototype）
+  原型模式（Prototype）
 
-	单例模式（Singleton）
+  单例模式（Singleton）
 
