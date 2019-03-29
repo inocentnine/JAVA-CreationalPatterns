@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<className>CircleFactory</className>
+	<geometryName>Circle</geometryName>
+	<sexName>W</sexName>
+	<databaseType>MysqlFactory</databaseType>
+	<chef>USChef</chef>
+	<person>TallPerson</person>
+	<mode>FullMode</mode>
+</config>
